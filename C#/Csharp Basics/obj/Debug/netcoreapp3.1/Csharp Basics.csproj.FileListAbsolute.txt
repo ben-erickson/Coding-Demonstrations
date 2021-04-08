@@ -1,0 +1,11 @@
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Csharp Basics\obj\Debug\netcoreapp3.1\Csharp Basics.csprojAssemblyReference.cache
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Csharp Basics\obj\Debug\netcoreapp3.1\Csharp Basics.AssemblyInfoInputs.cache
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Csharp Basics\obj\Debug\netcoreapp3.1\Csharp Basics.AssemblyInfo.cs
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Csharp Basics\bin\Debug\netcoreapp3.1\Csharp Basics.exe
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Csharp Basics\bin\Debug\netcoreapp3.1\Csharp Basics.deps.json
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Csharp Basics\bin\Debug\netcoreapp3.1\Csharp Basics.runtimeconfig.json
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Csharp Basics\bin\Debug\netcoreapp3.1\Csharp Basics.runtimeconfig.dev.json
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Csharp Basics\bin\Debug\netcoreapp3.1\Csharp Basics.dll
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Csharp Basics\bin\Debug\netcoreapp3.1\Csharp Basics.pdb
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Csharp Basics\obj\Debug\netcoreapp3.1\Csharp Basics.dll
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Csharp Basics\obj\Debug\netcoreapp3.1\Csharp Basics.pdb

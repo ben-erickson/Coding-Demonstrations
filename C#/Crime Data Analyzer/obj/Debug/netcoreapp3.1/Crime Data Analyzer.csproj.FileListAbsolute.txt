@@ -1,0 +1,11 @@
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Crime Data Analyzer\bin\Debug\netcoreapp3.1\Crime Data Analyzer.exe
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Crime Data Analyzer\bin\Debug\netcoreapp3.1\Crime Data Analyzer.deps.json
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Crime Data Analyzer\bin\Debug\netcoreapp3.1\Crime Data Analyzer.runtimeconfig.json
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Crime Data Analyzer\bin\Debug\netcoreapp3.1\Crime Data Analyzer.runtimeconfig.dev.json
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Crime Data Analyzer\bin\Debug\netcoreapp3.1\Crime Data Analyzer.dll
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Crime Data Analyzer\bin\Debug\netcoreapp3.1\Crime Data Analyzer.pdb
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Crime Data Analyzer\obj\Debug\netcoreapp3.1\Crime Data Analyzer.csprojAssemblyReference.cache
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Crime Data Analyzer\obj\Debug\netcoreapp3.1\Crime Data Analyzer.AssemblyInfoInputs.cache
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Crime Data Analyzer\obj\Debug\netcoreapp3.1\Crime Data Analyzer.AssemblyInfo.cs
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Crime Data Analyzer\obj\Debug\netcoreapp3.1\Crime Data Analyzer.dll
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Crime Data Analyzer\obj\Debug\netcoreapp3.1\Crime Data Analyzer.pdb

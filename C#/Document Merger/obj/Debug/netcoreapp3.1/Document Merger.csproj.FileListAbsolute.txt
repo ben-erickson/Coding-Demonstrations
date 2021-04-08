@@ -1,0 +1,11 @@
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Document Merger\bin\Debug\netcoreapp3.1\Document Merger.exe
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Document Merger\bin\Debug\netcoreapp3.1\Document Merger.deps.json
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Document Merger\bin\Debug\netcoreapp3.1\Document Merger.runtimeconfig.json
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Document Merger\bin\Debug\netcoreapp3.1\Document Merger.runtimeconfig.dev.json
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Document Merger\bin\Debug\netcoreapp3.1\Document Merger.dll
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Document Merger\bin\Debug\netcoreapp3.1\Document Merger.pdb
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Document Merger\obj\Debug\netcoreapp3.1\Document Merger.csprojAssemblyReference.cache
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Document Merger\obj\Debug\netcoreapp3.1\Document Merger.AssemblyInfoInputs.cache
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Document Merger\obj\Debug\netcoreapp3.1\Document Merger.AssemblyInfo.cs
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Document Merger\obj\Debug\netcoreapp3.1\Document Merger.dll
+C:\Users\Ben's Surface\Desktop\INFOTC 2040 Homework\Document Merger\obj\Debug\netcoreapp3.1\Document Merger.pdb
