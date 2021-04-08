@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<!--
+    Name: Ben Erickson
+    Pawprint: bdezkk
+    Date: 9/12/2020
+    Challenge Multi-Column Layout F20
+-->
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Skills</title>
+        <link rel="stylesheet" href="MasterCSS.css">
+        <link rel="stylesheet" href="ColumnsF20.css">
+    </head>
+    <body>
+        <div id="ghostContainer">
+        <div id="navbar">
+            <a href="index.html" class="name">Ben Erickson</a>
+            <a href="BdezkkColumnsF20.html" id="skills">Skills</a>
+            <a href="BdezkkTablesF20.html" id="classes">Classes Taken</a>
+            <a href="BdezkkProjectsF20.html" id="projects">Projects</a>
+        </div>
+        <!-- Main wrapper. This div should wrap all columns, row wrapper, and title header -->
+        <!--
+                Total Content Width = 1128px
+        -->
+        <div id="mainWrapper">
+            <h3 id="title">Skills</h3>
+            <!-- Left Column -->
+            <!-- Put left column physical width calculations here: 
+                247px <- width
+                 36px <- margin (18 left, 18 right)
+              +  36px <- padding (18 left, 18 right)
+           ______________   
+                319px <- Total Left Column Space
+            -->
+            <div class="column box" id="left">
+                <h3>Languages</h3>
+                <ul>
+                    <li>Python</li>
+                    <li>C#</li>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                </ul>
+            </div>
+            
+            <!-- Row Wrapper. This div will contain two rows -->
+            <!--Put middle column physical width calculations here:
+                Width of 449px
+                Margin of 18px
+                449px <- width
+                 36px <- margin (18 left, 18 right)
+              +  36px <- padding (18 left, 18 right)
+               ___________
+                521px <- Total Row Wrapper Space
+            -->
+            <div id="rowWrapper">
+                <div class="row box" id="top">
+                    <h3>Coursework</h3>
+                    <ul>
+                        <li>Application Development</li>
+                        <li>Web Development</li>
+                        <li>Windows Systems Administration</li>
+                    </ul>
+                </div>
+                <div class="row box" id="bottom">
+                    <h3>Other</h3>
+                    <ul>
+                        <li>Experinence Creating Content Beyond Software Development</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- Right Column -->
+            <!--Put right column physical width calculations here: 
+                   xpx <- width
+                  36px <- padding (18 left, 18 right)
+                1128px <- Total Width
+                 319px <- Width For Left Column
+                 521px <- Width for Middle Column
+               ____________________________
+                (x + 36) + 319 + 521 = 1128
+               ____________________________
+                x + 876 = 1128
+               ____________________________
+                x = 247px <- Width for Right Column
+            -->
+            <div class="column box" id="right">
+                <h3>Technologies</h3>
+                <ul>
+                    <li>Windows</li>
+                    <li>Git and Github</li>
+                    <li>LINQ Database Queries</li>
+                </ul>
+            </div>
+        </div>
+        </div>
+        <h4>Last Updated: September 12, 2020</h4>
+    </body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<!--
+    Name: Ben Erickson
+    Pawprint: bdezkk
+    Date: 11/20/20
+    Challenge: AJAX Fall 2020
+-->
+
+<html>
+    <head>
+        <title>AJAX Challenge</title>
+        <link rel="stylesheet" href="challenge9.css">
+        <script src="challenge9.js"></script>
+    </head>
+    <body onload="goodSols();">
+        <div id="header">
+            <a id="return">Back to Challenges Page</a>
+            <h1 id="title">Curiosity Photos</h1>
+        </div>
+        <div id="wrapper">
+            <div id="form" class="border">
+                <label for="sol" class="block form">Martian Sol:</label>
+                <input type="number" id="sol" class="block form" onchange="checkSol(this.value);" required>
+                <label for="cameras" class="block form">Curiosity Cameras:</label>
+                <select id="cameras" class="block form">
+                    <option disabled>Please choose a sol</option>
+                </select>
+                <button class="block" onclick='getPhotos();'>Query API</button>
+            </div>
+            <div id="gallery" class="border">
+                <div id="imageContainer">
+                    <a class="prev" onclick="arrowPics(-1);">&#10094;</a>
+                    <a class="next" onclick="arrowPics(1);">&#10095;</a>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

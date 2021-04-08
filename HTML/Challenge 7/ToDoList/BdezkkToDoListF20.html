@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<!--
+    Name: Ben Erickson
+    Pawprint: bdezkk
+    Date: 10/2/2020
+    Challenge: To-Do List F20
+-->
+
+<html id="html">
+    <head>
+        <title>To Do List</title>
+        <link rel="stylesheet" href="toDoList.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    </head>
+    <body id="body">
+        <a href="../BdezkkProjectsF20.html">Back to Projects</a>
+        <button id="theme" onclick="toggleTheme();">Change Theme</button>
+        <div id="toDoList">
+            <h1>Homework To Do List</h1>
+            <table id="toDoTable">
+                <thead>
+                    <th>Title</th>
+                    <th>Type</th>
+                    <th>Priority</th>
+                    <th>Date</th>
+                    <th>Action</th>
+                </thead>
+                <tbody id="tableBody">
+                    <tr>
+                        <td colspan="5" id="blankrow"></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div id="inputForm">
+            <form name="newEntry">
+                <label for="formName">Task Name:</label>
+                <input class="inputs" name="newTask" type="text" id="formName">
+                
+                <label for="formType">Task Type:</label>
+                <select class="inputs" name="newTask" id="formType">
+                    <option disabled selected="selected">Choose One</option>
+                    <option>Homework</option>
+                    <option>Project</option>
+                    <option>Test</option>
+                </select>
+                
+                <label for="formPriority">Task Priority (0-5):</label>
+                <input class="inputs" name="newTask" type="range" min="0" max="5" id="formPriority">
+                
+                <label for="formDate">Task Due Date:</label>
+                <input class="inputs" name="newTask" type="date" id="formDate">
+                
+                <input class="inputs" type="button" value="Submit" onclick="newValue(this.form);">
+            </form>
+            <!--
+                Make this button clear the above form. It may need its own for for that,
+                I'm not sure. JS is new to me
+            -->
+            <button class="inputs" onclick="clearForm();">Clear</button>
+        </div>
+        <script type="text/javascript" src="toDoList.js"></script>
+    </body>
+</html>

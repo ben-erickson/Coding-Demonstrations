@@ -1,0 +1,32 @@
+.name {
+    background: rgba(0, 0, 0, 0.25);
+}
+
+#profile {
+    margin: auto;
+    text-align: center;
+}
+
+#profileImage {
+    position: relative;
+    display: block;
+    max-width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    margin-bottom: 25px;
+}
+
+h3 {
+    position: relative;
+    color: rgba(35,97,35,1);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 35px;
+}
+
+.profileText {
+    font-family: monospace;
+    font-size: 15px;
+    color: brown;
+}

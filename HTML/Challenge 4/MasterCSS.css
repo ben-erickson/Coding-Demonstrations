@@ -1,0 +1,64 @@
+body {
+    min-height: 100%;
+    min-width: 100%;
+    background-image: linear-gradient(to bottom left, rgba(81,163,244,.25), rgba(81,163,244,1));
+    background-attachment: fixed;
+}
+
+#navbar {
+    background-image: linear-gradient(to left, rgba(35,97,35,.8), rgba(35,97,35,1));
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.name {
+    display: block;
+    border: none;
+    background-color: rgba(255, 255, 255, 0);
+    margin: 10px;
+    font-size: 30px;
+    font-family: sans-serif;
+    float: right;
+    padding-right: 15px;
+    color: #102616;
+}
+
+.name:hover {
+    background: rgba(255, 255, 255, .25);
+}
+
+#skills {
+    display: block;
+    border: none;
+    background-color: rgba(255, 255, 255, 0);
+    margin: 10px;
+    font-size: 25px;
+    font-family: sans-serif;
+    float: left;
+    padding-right: 15px;
+    top: 50%;
+    color: #8de2a4;
+}
+
+#skills:hover {
+    background: rgba(255, 255, 255, .25);
+}
+
+#classes {
+    display: block;
+    border: none;
+    background-color: rgba(255, 255, 255, 0);
+    margin: 10px;
+    font-size: 25px;
+    font-family: sans-serif;
+    float: left;
+    padding-right: 15px;
+    top: 50%;
+    color: #8de2a4;
+}
+
+#classes:hover {
+    background: rgba(255, 255, 255, .25);
+}

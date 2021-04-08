@@ -1,0 +1,75 @@
+/*
+    This code was found here: https://blog.logrocket.com/13-ways-to-vertical-center/
+
+    This was number 5. I used it to try to center the div
+    vertically. I'm not sure that it worked, but it was the
+    closest I got.
+*/
+#ghostContainer {
+    display:flex;
+}
+
+#mainWrapper { 
+    margin: 50px auto;
+    border: 6px solid SaddleBrown;
+    border-radius: 40px;
+    padding: 8px;
+    width: 1128px;
+    background-color: dimgrey;
+}
+
+#mainWrapper:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#title {
+    text-align: center;
+    font-size: 50px;
+}
+
+.column {
+    float: left;
+    height: 433px;
+    padding: 18px;
+    margin: 18px;
+    border: 7px solid dodgerblue;
+    border-radius: 20px;
+}
+
+#left {
+    width: 247px;
+}
+
+#right {
+    width: 224px;
+}
+
+#rowWrapper {
+    width: 449px;
+    margin: 18px;
+    float: left;
+}
+
+.row {
+    width: 375px;
+    padding: 25px;
+    border: 7px solid dodgerblue;
+    border-radius: 20px;
+}
+
+#top {
+    height: 198px;
+}
+
+#bottom {
+    height: 132px;
+    margin-top: 25px;
+}
+
+.box {
+    background-color: black;
+    font-family: sans-serif;
+    color: lightsteelblue;
+}

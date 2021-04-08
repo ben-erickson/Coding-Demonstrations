@@ -1,0 +1,25 @@
+#wrapper {
+    width: 80%;
+    min-height: 60vh;
+    background-color: beige;
+    border: black solid 2px;
+    margin: auto;
+}
+
+#title {
+    margin-top: 5px;
+    text-align: center;
+}
+
+.automargin {
+    margin: auto;
+}
+
+#namefunction {
+    /* hey is this here? */
+    visibility: hidden;
+}
+
+#phpfunctions {
+    background-color: blue;
+}
